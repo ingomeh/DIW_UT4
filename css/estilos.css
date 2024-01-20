@@ -112,6 +112,11 @@ section{
   margin-bottom:15px;
 }
 
+/* Estilos de los iframes de los videos */
+iframe { 
+  border: none;
+}
+
 /* REGLAS PARA DISEÑO RESPONSIVE*/
 /* La clase .container es un contenedor que ocupa el 100% de la pantalla manteniendo un padding a ambos lados*/
 .container {
